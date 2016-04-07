@@ -270,14 +270,29 @@ Github.com is a web-based code hosting service. It is the place where most devel
 
 ### Creating a Github Account
 
-screenshot
-
 ### Publishing Your Page on Github
 
-yourname.github.io
+yourusername.github.io
+
+After you log in, click the button to create a new repository.
+
+My username is larryteacher, so I am creating a respository named larryteacher.github.io
+
+<img src="assets/githubrepo.png" width="600" />
+
+<img src="assets/githubnewfile.png" width="600" />
+
+<img src="assets/githubcommit.png" width="600" />
+
+<img src="assets/githubpublished.png" width="600" />
 
 ### Getting Your Own Domain Name
 
+### Publishing Our Class Website
+
+We are going to link all of the websites together
+
+westseattle.github.io
 
 ## Going Further with HTML
 
