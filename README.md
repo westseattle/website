@@ -3,12 +3,18 @@
 [Objective](#objective)  
 [Discusson: How The Internet Works](#discussion)  
 [Making a Web Page](#making)  
-[Step 1](#step1)  
-[Step 2](#step2)  
-[Step 3](#step3)  
-[Step 4](#step4)  
-[Step 5](#step5)  
-[Going Further](#goingfurther)  
+* [Step 1](#step1)  
+* [Step 2](#step2)  
+* [Step 3](#step3)  
+* [Step 4](#step4)  
+* [Step 5](#step5)  
+[Going Further](#goingfurther)
+* [Images](#images)  
+* [Videos](#videos)  
+* [Quotations](#quptations)  
+* [Tables](#tables)  
+* [Forms](#forms)
+* [JavaScript](#javascript)  
 
 <a name="objective" />
 
@@ -326,6 +332,8 @@ westseattle.github.io
 
 We covered how to create and publish a basic web page, but there is much more to HTML and web development than what is written here. Most web pages you see have images, videos, a variety of colors and fonts, tables, forms, and various scripts to make the page more dynamic and rich. Below are some additional elements you can add to your web page to improve upon it. If you improve your web development skills over time, you can do powerful things. You can create a web page for a local business, use it as a creative outlet, or create a useful web application that is used by people around the world.
 
+<a name="images" />
+
 ## Images with the ```<img>``` tag
 
 Get a favorite photo or two from the internet or one you took on your phone. You can upload your photos online to a site like <a href="http://imgur.com">Imgur</a>, then display them in your web page. For instance, here is a photo of my dog that I uploaded to Imgur. I copied the URL to the photo to my clipboard, then used the ```<img>``` tag to show it in this web page.
@@ -341,6 +349,8 @@ Get a favorite photo or two from the internet or one you took on your phone. You
 ### Output
 
 <img src="assets/dog.jpg" width="600" />
+
+<a name="videos" />
 
 ## Videos
 
@@ -374,6 +384,8 @@ Here is the HTML markup for displaying a list of 5 music videos I like:
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Q6TLWqn82J4" frameborder="0" allowfullscreen></iframe>
 ```
 
+<a name="quotations" />
+
 ## Quotation
 
 A personal web page might have a list of your favorite quotes. Here is how you would include a quote from Tolkien:
@@ -393,6 +405,8 @@ Not all those who wander are lost." - Tolkien
 "All that is gold does not glitter,
 Not all those who wander are lost". - Tolkien
 </blockquote>
+
+<a name="tables" />
 
 ## Tables
 
@@ -440,6 +454,8 @@ Data on a web page can be formatted as a table by using the ```<table>``` tag. I
     </tr>
 </table>
 
+<a name="styles" />
+
 ## Stylesheets and Divs
 
 ```
@@ -451,8 +467,9 @@ body { background: black; color: white; font-family: arial; }
 p { font-size: 18px; }
 img { padding: 20px; border: solid gray 1px; }
 ```
+<a name="forms" />
 
-## Forms and JavaScript
+## Forms
 
 ### Creating a Form
 
@@ -467,6 +484,7 @@ img { padding: 20px; border: solid gray 1px; }
 
 #### Output
 
+<a name="javascript" />
 
 ### Processing the Form with JavaScript
 
