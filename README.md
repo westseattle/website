@@ -1,8 +1,22 @@
 # How to Make a Website
 
+[Objective](#objective)  
+[Discusson: How The Internet Works](#discussion)  
+[Making a Web Page](#making)  
+[Step 1](#step1)  
+[Step 2](#step2)  
+[Step 3](#step3)  
+[Step 4](#step4)  
+[Step 5](#step5)  
+[Going Further](#goingfurther)  
+
+<a name="objective" />
+
 ## Objective
 
 Students will be able to create a web page to express themselves. They will be able to explain how the Internet, HTTP, HTML, and web browsers work at a basic level. They will leave class with a published web page with links to their class projects and interests.
+
+<a name="discussion" />
 
 ## Discussion: How The Internet Works
 
@@ -53,7 +67,11 @@ A web browser runs on the client machine. It can communicate via HTTP with a web
 
 A web server responds to the client's requests for resources. When you type in a URL, it runs any necessary programs and scripts (eg. Python, Ruby, PHP) associated with that URL and returns the necessary response to the client.
 
+<a name="making" />
+
 ## Making a Web Page using HTML in 5 Steps
+
+<a name="step1" />
 
 ### Step 1: The basics - ```<html>```, ```<head>```, ```<title>```, and ```<body>``` tags
 
@@ -75,6 +93,8 @@ You should have already completed this step in the warmup. Everyone should be ab
 #### What it Looks Like
 
 <img src="assets/step1.png" width="600">
+
+<a name="step2" />
 
 ### Step 2: Adding headings `<h1>`, paragraphs `<p>`, bold `<b>`, and italic `<i>`
 
@@ -124,6 +144,8 @@ Once you are done, your HTML should look like this:
 #### What it Looks Like
 
 <img src="assets/step2.png" width="600">
+
+<a name="step3" />
 
 ### Step 3: Ordered ```<ol>``` and Unordered Lists ```<ul>``` and List Items ```<li>```
 
@@ -198,6 +220,8 @@ Unordered lists are created by using the `<ul>` tag. In an unordered list, there
 
 <img src="assets/step3.png" width="600">
 
+<a name="step4" />
+
 ### Step 4: Adding Links with the `<a>` tag
 
 Web pages are connected together with links. Links are created using the `<a>` tag. The `<a>` tag requires an HTML `attribute` that defines what page it is **_linking to_**. For the `<a>` tag, you specify the URL it is linking to with  `href=` and the URL that you are linking to. For example `<a href="http://google.com">Google</a>` links to Google.com. Below I have added links to my list of Snap projects so that other people can view them:
@@ -258,6 +282,8 @@ Web pages are connected together with links. Links are created using the `<a>` t
 
 <img src="assets/step4.png" width="600">
 
+<a name="step5" />
+
 ## Step 5: Publishing Your Web Page
 
 You can write all of the HTML markup on your computer locally and view the HTML file in your web browser. However, the beauty of a web page is that it is published on the Internet where people all over the world can see it.
@@ -278,13 +304,13 @@ After you log in, click the button to create a new repository.
 
 My username is larryteacher, so I am creating a respository named larryteacher.github.io
 
-<img src="assets/githubrepo.png" width="600" />
+<img src="assets/githubrepo.png" width="800" />
 
-<img src="assets/githubnewfile.png" width="600" />
+<img src="assets/githubnewfile.png" width="800" />
 
-<img src="assets/githubcommit.png" width="600" />
+<img src="assets/githubcommit.png" width="800" />
 
-<img src="assets/githubpublished.png" width="600" />
+<img src="assets/githubpublished.png" width="800" />
 
 ### Getting Your Own Domain Name
 
@@ -293,6 +319,8 @@ My username is larryteacher, so I am creating a respository named larryteacher.g
 We are going to link all of the websites together
 
 westseattle.github.io
+
+<a name="goingfurther" />
 
 ## Going Further with HTML
 
