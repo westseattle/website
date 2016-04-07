@@ -5,7 +5,7 @@
 - [Making a Web Page](#making)  
   - [Step 1: The basics - ```<html>```, ```<head>```, ```<title>```, and ```<body>``` tags](#step1)  
   - [Step 2: Adding headings ```<h1>```, paragraphs ```<p>```, bold ```<b>```, and italic ```<i>```](#step2)  
-  - [Step 3: Ordered ```<ol>``` and Unordered Lists ```<ul>``` and List Items <li>](#step3)
+  - [Step 3: Ordered ```<ol>``` and Unordered Lists ```<ul>``` and List Items ```<li>```](#step3)
   - [Step 4: Adding Links with the ```<a>``` tag](#step4)  
   - [Step 5: Publishing Your Web Page](#step5)  
 - [Going Further](#goingfurther)
