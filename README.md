@@ -2,6 +2,8 @@
 
 #### By Larry K.
 
+## Table of Contents
+
 - [Objective](#objective)  
 - [Discusson: How The Internet Works](#discussion)  
 - [Making a Web Page](#making)  
