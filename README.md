@@ -1,5 +1,7 @@
 # How to Make a Website
 
+#### By Larry K.
+
 - [Objective](#objective)  
 - [Discusson: How The Internet Works](#discussion)  
 - [Making a Web Page](#making)  
