@@ -1,6 +1,6 @@
 # How to Make a Website
 
-#### By Larry K.
+#### By Larry Kubin
 
 ## Table of Contents
 
